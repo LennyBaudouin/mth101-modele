@@ -1,0 +1,8 @@
+# Bibliothèques du module MTH101, installées automatiquement dans Codespaces.
+# Versions figées pour que tout le monde ait le même environnement.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+jupyter==1.1.1
+ipykernel==7.4.0
