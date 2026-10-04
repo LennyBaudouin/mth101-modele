@@ -54,3 +54,12 @@ Chaque dossier contient un `README.md` qui dit ce qu'on y range.
 ## Le cours
 
 Supports, calendrier et résumés des séances : <https://ad-c.github.io/mth101/>.
+
+## Licence du modèle
+
+Le modèle lui-même (arborescence, fichiers `README.md`,
+`PREMIERE-MISSION.md`, configuration Codespaces de `.devcontainer/` et
+`requirements.txt`, notebook de vérification) est versé dans le domaine
+public : [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr).
+Vous pouvez le modifier et le réutiliser sans condition. Cette mention ne
+couvre pas votre propre travail, qui vous appartient.
