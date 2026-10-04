@@ -12,8 +12,10 @@ chacun a fait, et quand.
 Le dépôt s'ouvre dans votre navigateur avec GitHub Codespaces : bouton vert
 **Code**, onglet **Codespaces**, **Create codespace on main**. Le premier
 démarrage prend quelques minutes, le temps d'installer Python, pandas, NumPy,
-SciPy, matplotlib et Jupyter. Pour vérifier l'environnement, ouvrez
-`exercices/00-verifier-environnement.ipynb` et lancez-le (**Run All**).
+SciPy, matplotlib et Jupyter. Si VS Code demande s'il peut faire confiance
+aux auteurs du dossier, acceptez : c'est votre dépôt. Pour vérifier
+l'environnement, ouvrez `exercices/00-verifier-environnement.ipynb` et
+lancez-le (**Exécuter tout**, *Run All*).
 
 Codespaces est gratuit dans la limite d'un quota mensuel, d'environ
 60 heures d'utilisation. Un codespace s'arrête seul après 30 minutes
