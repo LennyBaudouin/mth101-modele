@@ -12,7 +12,7 @@ chacun depuis son propre compte.
 
 *Remplacez les trois lignes ci-dessous. Vos prénoms suffisent.*
 
-- Qui nous sommes :
+- Lenny Maxime Idriss
 - Ce que nous savons déjà faire :
 - Ce que nous attendons de ce module :
 
