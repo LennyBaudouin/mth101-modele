@@ -13,7 +13,7 @@ chacun depuis son propre compte.
 *Remplacez les trois lignes ci-dessous. Vos prénoms suffisent.*
 
 - Lenny Maxime Idriss
-- Ce que nous savons déjà faire :
+- On sais faire du code en C, utilisé l'intelligence artificiel à bon escient. 
 - Ce que nous attendons de ce module :
 
 ## 2. Un nom pour l'agence
